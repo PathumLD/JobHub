@@ -1,0 +1,7 @@
+https://youtu.be/AiwzQMupPsU?si=Mt25ul37dxd97Tv3
+
+Stack
+
+	React
+	.Net 7
+	SQL Server
